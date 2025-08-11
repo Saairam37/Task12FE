@@ -36,7 +36,7 @@ const ResetPassword = () => {
     console.log("Reset token:", token);
 
     try {
-      const response = await fetch(`https://task12be.onrender.com/api/v1/auth/reset_password_confirm/${token}`, {
+      const response = await fetch(`https://task12be.onrender.com/api/v1/auth/reset_password/${token}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
