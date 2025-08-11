@@ -5,7 +5,7 @@ import {  useNavigate, useParams } from 'react-router-dom'
 const ResetPassword = () => {
 
   const { token } = useParams()
-  //  const {user,SetUser}  = useAuth()
+  // const {user,SetUser}  = useAuth()
 
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
