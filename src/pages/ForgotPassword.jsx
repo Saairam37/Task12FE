@@ -9,7 +9,7 @@ const ForgotPassword = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await fetch('https://password-reset-flow-gb7g.onrender.com/api/v1/auth/reset_password', {
+      const res = await fetch('https://task12be.onrender.com/api/v1/auth/reset_password', {
 
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },

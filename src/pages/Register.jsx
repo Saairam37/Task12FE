@@ -9,7 +9,7 @@ const Register = () => {
     e.preventDefault();
    try {
 
-    const res = await fetch('https://password-reset-flow-gb7g.onrender.com/api/v1/auth/register', {
+    const res = await fetch('https://task12be.onrender.com/api/v1/auth/register', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'},
