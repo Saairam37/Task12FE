@@ -100,11 +100,6 @@ Always hide your API keys and tokens using environment variables.
 
 For production, ensure CORS is correctly configured on the backend.
 
----
 
-## 📄 License
 
-MIT © 2025 [Subramaniyajothi S](https://github.com/Subramaniyajothi6)
-
----
 
