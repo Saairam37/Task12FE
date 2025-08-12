@@ -4,7 +4,7 @@ This is the frontend of a full-stack **Password Reset Flow** web application bui
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://passwordreset-flow-frontend.netlify.app/)
+👉 [Click here to view the live site](https://passwordreset-bysaairam.netlify.app/)
 
 > Example reset link (ensure the token is valid and not expired):
 > `https://passwordreset-flow-frontend.netlify.app/reset-password/<token>`
@@ -81,14 +81,14 @@ npm run dev
 
 ## ✅ Backend Repository
 
-🔗 [Password Reset Flow - Backend](https://github.com/your-username/password-reset-backend)
+🔗 [Password Reset Flow - Backend](https://task12be.onrender.com)
 
 ---
 📦 Deployment
 
 This project is deployed using Netlify:
 
-➡️ https://passwordreset-flow-frontend.netlify.app
+➡️ [Password Reset Flow - Frontend](https://passwordreset-bysaairam.netlify.app/)
 
 Make sure to enable redirects by adding the following rule in netlify.toml or a _redirects file:
 
